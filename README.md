@@ -1,4 +1,3 @@
-# kafka-order-microservices 
 # Kafka Order Microservices
 
 Event-driven order processing system built with Apache Kafka 
